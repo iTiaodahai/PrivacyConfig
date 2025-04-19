@@ -34,4 +34,9 @@ DOMAIN,emby2.69yun69.com
 DOMAIN-KEYWORD,carlos.trade
 
 # 入机
-DOMAIN-KEYWORD,dpdns.org
+# > CF
+DOMAIN,embycf.xytx.dpdns.org
+# > 香港移动优化
+DOMAIN,xgyd.xytx.dpdns.org
+# > 日本三网优化
+DOMAIN,rbswyh.xytx.dpdns.org
